@@ -1,0 +1,32 @@
+html {
+    display: flex;
+    width: 100%;
+    height: 100%;
+    justify-content: center;
+    align-items: center;
+    background-color: #2E3440;
+    color: #D8DEE9;
+    font-family: monospace;
+    font-size: 16px;
+}
+
+main {
+    width: 400px;
+}
+
+a {
+    color: #88C0D0;
+}
+
+h1 {
+    color: #A3BE8C;
+    font-size: 16px;
+}
+
+strong, em {
+    color: #B48EAD;
+}
+
+code {
+    text-align: center;
+}

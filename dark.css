@@ -1,0 +1,28 @@
+html {
+    display: flex;
+    width: 100%;
+    height: 100%;
+    justify-content: center;
+    align-items: center;
+    background-color: #000000;
+    color: #EEFFFF;
+    font-family: monospace;
+    font-size: 16px;
+}
+
+main {
+    width: 400px;
+}
+
+a {
+    color: #7898FB;
+}
+
+h1 {
+    color: #13CA91;
+    font-size: 16px;
+}
+
+strong, em {
+    color: #ff3299;
+}
